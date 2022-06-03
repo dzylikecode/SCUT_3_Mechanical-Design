@@ -33,3 +33,7 @@
 - 链接: https://www.icourse163.org/course/SCUT-12065778
 
   ![](assets/2022-05-30-20-55-21.png)
+
+## 总结
+
+- https://github.com/worranhin/notes/blob/main/SCUT/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1.md
