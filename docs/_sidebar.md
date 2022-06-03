@@ -23,7 +23,7 @@
     - <a href="RES/PPT/ch05-机械零件中的载荷-静应力和变形.pdf">PPT</a>
     - [summary](ch05/README.md)
   - 典型零件的静强度设计
-    - <a href="RES/PPT/ch06-典型零件的静强度设计.pdf">PPT</a>
+    - <a href="RES/PPT/ch06-典型机械零件的静强度设计.pdf">PPT</a>
     - [summary](ch06/README.md)
 
 - 疲劳强度设计
