@@ -28,7 +28,7 @@
 
 - 疲劳强度设计
 
-  - 计算
+  - 零件的疲劳强度
     - <a href="RES/PPT/ch07-机械零件的疲劳强度计算.pdf">PPT</a>
     - [summary](ch07/README.md)
   - 齿轮传动与蜗杆传动
