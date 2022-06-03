@@ -35,7 +35,7 @@
     - <a href="RES/PPT/ch08-齿轮传动与蜗杆传动疲劳强度设计.pdf">PPT</a>
     - [summary](ch08/README.md)
   - 链传动-轴-滚动轴承
-    - <a href="RES/PPT/ch09-链-轴-滚动轴承疲劳强度设计.pdf">PPT</a>
+    - <a href="RES/PPT/ch09-链-轴与滚动轴承疲劳强度设计.pdf">PPT</a>
     - [summary](ch09/README.md)
 
 - 摩擦学设计方法
