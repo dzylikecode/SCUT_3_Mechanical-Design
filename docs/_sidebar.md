@@ -64,3 +64,10 @@
   - 结构设计
     - <a href="RES/PPT/ch15-常用机械零件的结构设计.pdf">PPT</a>
     - [summary](ch15/README.md)
+
+- review
+
+  - [MOOC](test/MOOC.md)
+  - [test1](test/test1/README.md)
+  - [test2](test/test2/README.md)
+  - [test3](test/test3/README.md)
