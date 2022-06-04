@@ -252,6 +252,8 @@ $$\sigma _ { F } = \frac { 2 K T _ { 1 } Y _ { F \alpha } Y _ { s a } } { \phi _
 
   $$v = \frac {\pi d_{1t} n_1} {60 \times 1000}$$
 
+  理解$v = \omega r = 2 \pi f r = \pi f d = \pi d n$
+
 ### 斜齿轮
 
 #### 受力分析
