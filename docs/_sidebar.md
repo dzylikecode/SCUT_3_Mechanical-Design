@@ -72,4 +72,5 @@
   - [test2](test/test2/README.md)
   - [test3](test/test3/README.md)
   - [课堂作业](test/coursework/README.md)
+  - [家庭作业](test/homework/README.md)
   - [考试](test/exam/README.md)
