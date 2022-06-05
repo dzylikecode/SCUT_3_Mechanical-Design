@@ -1,5 +1,9 @@
 # 机械设计-笔记
 
+无论如何怀着良好的心情, 轻装上阵吧:wink::wink::wink: 
+
+- travel light :tent::tent::tent::wink::wink::wink: 
+
 ## 内容结构(七部分)
 
 - 总论
